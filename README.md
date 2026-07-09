@@ -31,7 +31,7 @@ The HR dataset contains employee records including:
 - Department
 - Hire Date
 - Salary
-- Performance Rating
+- Performance score
 - Years of service
 - Attrition rate
 - Other employee-related information
@@ -197,6 +197,5 @@ Through this project, I gained practical experience in:
 - Building interactive Excel dashboards.
 - Creating business-focused visualizations.
 - Presenting data to support strategic decision-making.
-
 
 T
