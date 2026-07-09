@@ -27,7 +27,6 @@ The HR dataset contains employee records including:
 - Employee ID
 - Employee Name
 - Gender
-- Age
 - Department
 - Hire Date
 - Salary
